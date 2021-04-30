@@ -12,21 +12,21 @@
     
     
     <item>
+      <title>Announcements</title>
+      <link>/announcement/</link>
+      <pubDate>Fri, 30 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/announcement/</guid>
+      <description>This are no announcemets as of now.</description>
+    </item>
+    
+    <item>
       <title>Slides</title>
       <link>/econ04sec2/main-page/</link>
       <pubDate>Wed, 31 Mar 2021 00:00:00 +0000</pubDate>
       
       <guid>/econ04sec2/main-page/</guid>
       <description>1. A Guide to Writing the Dissertation Literature Review</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>/about/</link>
-      <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
-      
-      <guid>/about/</guid>
-      <description>This is a &amp;ldquo;hello world&amp;rdquo; example website for the blogdown package. The theme was forked from @jrutheiser/hugo-lithium-theme and modified by Yihui Xie.</description>
     </item>
     
   </channel>
