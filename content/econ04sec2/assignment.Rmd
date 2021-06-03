@@ -1,12 +1,17 @@
 ---
-title: "Home Assignment"
+title: "Assessment"
 author: "pravesh"
-date: "2021-06-03"
-output: html_document
+date: '2021-06-03'
+output:
+  html_document: default
 ---
 
 
+**The assessment, based on Literature review and the use of Mendeley software, shall be divided into two parts. **<br>
+**1. Home Assignment (30 marks)**<br>
+**2. Viva (20 marks)**
 
+# 1. Home Assignment
 For the following given research topics related to the Indian economy, write a relevant literature review and provide a bibliography using the Mendeley software.
 
 ```{r, echo=FALSE, message=FALSE, warning=FALSE}
@@ -19,9 +24,11 @@ data.frame(Group = c('Group 1', 'Group 2', 'Group 3', 'Group 4', 'Group 5'),
 ## Submission date: 31 April 2021 (midnight).
 ## How to submit?
 1. Your literature and bibliography must be written in .docx/.doc format.
+1. Word limit: 1200 - 1500 (excluding bibliography).
 1. The second page of the file should have a list of names, registration numbers, CRNs of the group members/students along with email.
 1. Save the .docx/.doc file as Group1.docx, Group2.docx, etc.
 1. email your submission to <pravesh.econ@presiuniv.ac.in>.
 
 
-
+# 2. Viva-voce
+The viva shall be based on the lessons taught during the semester classes. The date for the viva shall be announced shortly.
