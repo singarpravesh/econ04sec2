@@ -8,8 +8,8 @@ output:
 
 
 **The assessment, based on Literature review and the use of Mendeley software, shall be divided into two parts. **<br>
-**1. Home Assignment (30 marks)**<br>
-**2. Viva (20 marks)**
+**1. Home Assignment (25 marks)**<br>
+**2. Viva (15 marks)**
 
 # 1. Home Assignment
 For the following given research topics related to the Indian economy, write a relevant literature review and provide a bibliography using the Mendeley software.
