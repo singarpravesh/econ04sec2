@@ -6,10 +6,20 @@
     <description>Recent content on econ04sec2</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 01 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Jun 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Home Assignment</title>
+      <link>/econ04sec2/assignment/</link>
+      <pubDate>Thu, 03 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/econ04sec2/assignment/</guid>
+      <description>For the following given research topics related to the Indian economy, write a relevant literature review and provide a bibliography using the Mendeley software.
+.tabwid table{border-collapse:collapse;line-height:1;margin-left:auto;margin-right:auto;border-width: 0;display: table;margin-top: 1.275em;margin-bottom: 1.275em;border-spacing: 0;border-color: transparent;}.tabwid_left table{margin-left:0;}.tabwid_right table{margin-right:0;}.tabwid td {padding: 0;}.tabwid a {text-decoration: none;}.tabwid thead {background-color: transparent;}.</description>
+    </item>
     
     <item>
       <title>Announcements</title>
@@ -18,16 +28,6 @@
       
       <guid>/announcement/</guid>
       <description>This are no announcemets as of now.</description>
-    </item>
-    
-    <item>
-      <title>Home Assignment</title>
-      <link>/econ04sec2/assignment/</link>
-      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/econ04sec2/assignment/</guid>
-      <description>For the following given research topics related to the Indian economy, write a relevant literature review and provide a bibliography using the Mendeley software.
-.tabwid table{border-collapse:collapse;line-height:1;margin-left:auto;margin-right:auto;border-width: 0;display: table;margin-top: 1.275em;margin-bottom: 1.275em;border-spacing: 0;border-color: transparent;}.tabwid_left table{margin-left:0;}.tabwid_right table{margin-right:0;}.tabwid td {padding: 0;}.tabwid a {text-decoration: none;}.tabwid thead {background-color: transparent;}.</description>
     </item>
     
     <item>

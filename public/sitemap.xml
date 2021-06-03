@@ -3,23 +3,23 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/announcement/</loc>
-    <lastmod>2021-04-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/</loc>
-    <lastmod>2021-04-01T00:00:00+00:00</lastmod>
+    <lastmod>2021-06-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/econ04sec2/</loc>
-    <lastmod>2021-04-01T00:00:00+00:00</lastmod>
+    <lastmod>2021-06-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/econ04sec2/assignment/</loc>
-    <lastmod>2021-04-01T00:00:00+00:00</lastmod>
+    <lastmod>2021-06-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/announcement/</loc>
+    <lastmod>2021-04-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
