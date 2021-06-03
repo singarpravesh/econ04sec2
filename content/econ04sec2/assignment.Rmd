@@ -21,7 +21,7 @@ data.frame(Group = c('Group 1', 'Group 2', 'Group 3', 'Group 4', 'Group 5'),
   flextable::flextable(cwidth = 1.5)
 ```
 
-## Submission date: 31 April 2021 (midnight).
+## Submission date: 30 June 2021 (midnight).
 ## How to submit?
 1. Your literature and bibliography must be written in .docx/.doc format.
 1. Word limit: 1200 - 1500 (excluding bibliography).
