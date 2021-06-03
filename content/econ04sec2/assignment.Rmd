@@ -9,6 +9,13 @@ output: html_document
 
 For the following given research topics related to the Indian economy, write a relevant literature review and provide a bibliography using the Mendeley software.
 
+```{r, echo=FALSE, message=FALSE, warning=FALSE}
+library(tidyverse)
+data.frame(Group = c('Group 1', 'Group 2', 'Group 3', 'Group 4', 'Group 5'),
+           Topic = c('Impact of health on economic growth', 'Trade between India and European Union', 'Impact of FII on Indian stock market', 'Impact of infrasatructure on Indian tourism sector', 'Decentralisation and development in India')) %>% 
+  flextable::flextable(cwidth = 1.5)
+```
+
 ## Submission date: 31 April 2021 (midnight).
 ## How to submit?
 1. Your literature and bibliography must be written in .docx/.doc format.
@@ -16,10 +23,5 @@ For the following given research topics related to the Indian economy, write a r
 1. Save the .docx/.doc file as Group1.docx, Group2.docx, etc.
 1. email your submission to <pravesh.econ@presiuniv.ac.in>.
 
-```{r, echo=FALSE, message=FALSE, warning=FALSE}
-library(tidyverse)
-data.frame(Group = c('Group 1', 'Group 2', 'Group 3', 'Group 4', 'Group 5'),
-           Topics = c('Impact of health on economic growth', 'Trade between India and European Union', 'Impact of FII on Indian stock market', 'Impact of infrasatructure on Indian tourism sector', 'Decentralisation and development in India')) %>% 
-  flextable::flextable()
-```
+
 
